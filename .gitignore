@@ -1,0 +1,4 @@
+*.log
+*.qemu_elf
+*.cpio.gz
+*.img
